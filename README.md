@@ -129,6 +129,5 @@
     <p><a href="#">Terms & Conditions</a> | <a href="#">Privacy Policy</a></p>
 </footer>
 
-<script src="script.js"></script>
 </body>
 </html>
